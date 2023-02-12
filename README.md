@@ -1,4 +1,4 @@
-# SeatGeek Test
+# mvvm Architecture
 
 A new Flutter project showing list of events from the SeatGeek api
 
