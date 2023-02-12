@@ -1,6 +1,6 @@
 # mvvm Architecture
 
-A new Flutter project showing list of events from the SeatGeek api
+A new Flutter project using mvvm architecture.the SeatGeek api is used for showing list of events.
 
 ## How to Use 
 
